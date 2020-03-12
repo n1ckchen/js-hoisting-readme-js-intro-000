@@ -9,21 +9,21 @@ function callMe() {
 }
 
 
-function crazy() {
-  // fix the code in here:
-    thisIsCrazy() {
-
-  const thisIsCrazy = function (){
-
-    console.log("hey!!!")
-  }
-  }
-}
+// function crazy() {
+//   // fix the code in here:
+//     thisIsCrazy() {
+//
+//   const thisIsCrazy = function (){
+//
+//     console.log("hey!!!")
+//   }
+//   }
+// }
 
 function sayMyName() {
   // fix the code in here:
     var name = "Kristin";
     console.log(name);
 
-  
+
 }
